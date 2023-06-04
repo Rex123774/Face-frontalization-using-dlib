@@ -13,3 +13,4 @@ step2:-Install facial landmarks by using the following command
 !wget   http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 !bunzip2 /content/shape_predictor_68_face_landmarks.dat.bz2
 Step3:- use face_frontalization.ipynb to perform face frontalization
+If you want to change the face shape then you have to edit the pickle file because has the properties of camera detector,face shape etc ina matrix format and it is also reditable 
