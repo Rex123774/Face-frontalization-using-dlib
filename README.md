@@ -1,3 +1,4 @@
+![MergedImages](https://github.com/Rex123774/Face-frontalization-using-dlib/assets/77051661/0e850e36-ce9e-41d3-8415-26c7b8247ef1)
 # Face-frontalization-using-dlib
 As we know most of us are using Generative Advisorial Networks(GANs) for face frontalization features. 
 So to implement one gan it really needs opencv for facial alignment and when the facial alignment gets generated it go to the generator part of gans to build a simple face 
